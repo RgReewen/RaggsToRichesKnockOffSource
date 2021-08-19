@@ -25,6 +25,8 @@ import java.awt.event.ActionEvent;
 import java.sql.Timestamp;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.awt.Font;
+import javax.swing.ImageIcon;
 
 public class FrontEnd extends JFrame {
 	//sorry for the mess
@@ -44,11 +46,13 @@ public class FrontEnd extends JFrame {
 	private JLabel lblMisfortune;
 	private JLabel lblRare2;
 	private JButton btnReset;
+	ImageIcon Background1 = new ImageIcon(getClass().getResource("/resources/Background.png"));
 
 	/**
 	 * Launch the application.
 	 */
 	private static final SimpleDateFormat sdf1 = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+	private JLabel lblbackground;
 
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
@@ -67,8 +71,10 @@ public class FrontEnd extends JFrame {
 	 * Create the frame.
 	 */
 	public FrontEnd() {
+		setForeground(Color.WHITE);
+		setTitle("Raggs to Riches");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setBounds(100, 100, 950, 450);
+		setBounds(100, 100, 982, 500);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
@@ -87,13 +93,17 @@ public class FrontEnd extends JFrame {
 		contentPane.add(getLblMisfortune());
 		contentPane.add(getLblRare2());
 		contentPane.add(getBtnReset());
+		contentPane.add(getLblbackground());
+		setResizable(false);
 	}
 
 	private JButton getBtnRole() {
 		if (btnRole == null) {
 			btnRole = new JButton("Role");
+			btnRole.setIcon(new ImageIcon(FrontEnd.class.getResource("/resources/Role2.png")));
+			btnRole.setFont(new Font("OptimusPrinceps", Font.BOLD, 17));
 			btnRole.addActionListener(new BtnRoleActionListener());
-			btnRole.setBounds(10, 11, 155, 69);
+			btnRole.setBounds(28, 11, 233, 69);
 		}
 		return btnRole;
 	}
@@ -101,8 +111,10 @@ public class FrontEnd extends JFrame {
 	private JButton getBtnMisfortune() {
 		if (btnMisfortune == null) {
 			btnMisfortune = new JButton("Generate Misfortune");
+			btnMisfortune.setIcon(new ImageIcon(FrontEnd.class.getResource("/resources/Misfortune2.png")));
+			btnMisfortune.setFont(new Font("OptimusPrinceps", Font.BOLD, 17));
 			btnMisfortune.addActionListener(new BtnMisfortuneActionListener());
-			btnMisfortune.setBounds(769, 11, 155, 69);
+			btnMisfortune.setBounds(709, 11, 233, 69);
 		}
 		return btnMisfortune;
 	}
@@ -112,8 +124,8 @@ public class FrontEnd extends JFrame {
 			lblRareCards = new JLabel("");
 			lblRareCards.setBorder(new TitledBorder(
 					new EtchedBorder(EtchedBorder.LOWERED, new Color(255, 255, 255), new Color(160, 160, 160)),
-					"Rare Cards", TitledBorder.LEADING, TitledBorder.TOP, null, new Color(0, 0, 0)));
-			lblRareCards.setBounds(10, 199, 914, 82);
+					"Rare Cards", TitledBorder.LEADING, TitledBorder.TOP, new Font("OptimusPrinceps", Font.PLAIN, 13), new Color(255, 255, 255)));
+			lblRareCards.setBounds(28, 199, 914, 82);
 		}
 		return lblRareCards;
 	}
@@ -121,9 +133,10 @@ public class FrontEnd extends JFrame {
 	private JLabel getLblCommonCards() {
 		if (lblCommonCards == null) {
 			lblCommonCards = new JLabel("");
+			lblCommonCards.setFont(new Font("OptimusPrinceps", Font.PLAIN, 11));
 			lblCommonCards.setBorder(
-					new TitledBorder(null, "Common Cards", TitledBorder.LEADING, TitledBorder.TOP, null, null));
-			lblCommonCards.setBounds(10, 106, 914, 82);
+					new TitledBorder(null, "Common Cards", TitledBorder.LEADING, TitledBorder.TOP, new Font("OptimusPrinceps", Font.PLAIN, 13), new Color(255, 255, 255)));
+			lblCommonCards.setBounds(28, 106, 914, 82);
 		}
 		return lblCommonCards;
 	}
@@ -131,10 +144,11 @@ public class FrontEnd extends JFrame {
 	private JLabel getLblVeryRareCards() {
 		if (lblVeryRareCards == null) {
 			lblVeryRareCards = new JLabel("");
+			lblVeryRareCards.setForeground(Color.WHITE);
 			lblVeryRareCards.setBorder(new TitledBorder(
 					new EtchedBorder(EtchedBorder.LOWERED, new Color(255, 255, 255), new Color(160, 160, 160)),
-					"Very Rare Card", TitledBorder.LEADING, TitledBorder.TOP, null, new Color(0, 0, 0)));
-			lblVeryRareCards.setBounds(10, 292, 393, 82);
+					"Very Rare Card", TitledBorder.LEADING, TitledBorder.TOP, new Font("OptimusPrinceps", Font.PLAIN, 13), new Color(255, 255, 255)));
+			lblVeryRareCards.setBounds(28, 292, 393, 82);
 		}
 		return lblVeryRareCards;
 	}
@@ -144,8 +158,8 @@ public class FrontEnd extends JFrame {
 			lblMisfortuneCards = new JLabel("");
 			lblMisfortuneCards.setBorder(new TitledBorder(
 					new EtchedBorder(EtchedBorder.LOWERED, new Color(255, 255, 255), new Color(160, 160, 160)),
-					"Misfortune Card", TitledBorder.LEADING, TitledBorder.TOP, null, new Color(0, 0, 0)));
-			lblMisfortuneCards.setBounds(531, 292, 393, 82);
+					"Misfortune Card", TitledBorder.LEADING, TitledBorder.TOP, new Font("OptimusPrinceps", Font.PLAIN, 13), new Color(255, 255, 255)));
+			lblMisfortuneCards.setBounds(549, 292, 393, 82);
 		}
 		return lblMisfortuneCards;
 	}
@@ -153,8 +167,11 @@ public class FrontEnd extends JFrame {
 	private JLabel getLblCommon1() {
 		if (lblCommon1 == null) {
 			lblCommon1 = new JLabel("", SwingConstants.CENTER);
-			lblCommon1.setBorder(new LineBorder(new Color(0, 0, 0)));
-			lblCommon1.setBounds(23, 122, 267, 56);
+			lblCommon1.setFont(new Font("OptimusPrinceps", Font.BOLD, 13));
+			lblCommon1.setBackground(Color.WHITE);
+			lblCommon1.setForeground(Color.WHITE);
+			lblCommon1.setBorder(new LineBorder(new Color(255, 255, 255)));
+			lblCommon1.setBounds(40, 122, 267, 56);
 		}
 		return lblCommon1;
 	}
@@ -162,8 +179,10 @@ public class FrontEnd extends JFrame {
 	private JLabel getLblNewLabel_1_2() {
 		if (lblCommon2 == null) {
 			lblCommon2 = new JLabel("", SwingConstants.CENTER);
-			lblCommon2.setBorder(new LineBorder(new Color(0, 0, 0)));
-			lblCommon2.setBounds(328, 122, 267, 56);
+			lblCommon2.setFont(new Font("OptimusPrinceps", Font.BOLD, 13));
+			lblCommon2.setForeground(Color.WHITE);
+			lblCommon2.setBorder(new LineBorder(new Color(255, 255, 255)));
+			lblCommon2.setBounds(351, 122, 267, 56);
 		}
 		return lblCommon2;
 	}
@@ -171,8 +190,10 @@ public class FrontEnd extends JFrame {
 	private JLabel getLblNewLabel_1_1_1() {
 		if (lblCommon3 == null) {
 			lblCommon3 = new JLabel("", SwingConstants.CENTER);
-			lblCommon3.setBorder(new LineBorder(new Color(0, 0, 0)));
-			lblCommon3.setBounds(643, 122, 267, 56);
+			lblCommon3.setFont(new Font("OptimusPrinceps", Font.BOLD, 13));
+			lblCommon3.setForeground(Color.WHITE);
+			lblCommon3.setBorder(new LineBorder(new Color(255, 255, 255)));
+			lblCommon3.setBounds(662, 122, 267, 56);
 		}
 		return lblCommon3;
 	}
@@ -180,8 +201,10 @@ public class FrontEnd extends JFrame {
 	private JLabel getLblRare1() {
 		if (lblRare1 == null) {
 			lblRare1 = new JLabel("", SwingConstants.CENTER);
-			lblRare1.setBorder(new LineBorder(new Color(0, 0, 0)));
-			lblRare1.setBounds(23, 214, 367, 56);
+			lblRare1.setFont(new Font("OptimusPrinceps", Font.BOLD, 13));
+			lblRare1.setForeground(Color.WHITE);
+			lblRare1.setBorder(new LineBorder(new Color(255, 255, 255)));
+			lblRare1.setBounds(40, 214, 367, 56);
 		}
 		return lblRare1;
 	}
@@ -189,8 +212,10 @@ public class FrontEnd extends JFrame {
 	private JLabel getLblVeryRare1() {
 		if (lblVeryRare1 == null) {
 			lblVeryRare1 = new JLabel("", SwingConstants.CENTER);
-			lblVeryRare1.setBorder(new LineBorder(new Color(0, 0, 0)));
-			lblVeryRare1.setBounds(23, 307, 367, 56);
+			lblVeryRare1.setFont(new Font("OptimusPrinceps", Font.BOLD, 13));
+			lblVeryRare1.setForeground(Color.WHITE);
+			lblVeryRare1.setBorder(new LineBorder(new Color(255, 255, 255)));
+			lblVeryRare1.setBounds(40, 307, 367, 56);
 		}
 		return lblVeryRare1;
 	}
@@ -198,8 +223,10 @@ public class FrontEnd extends JFrame {
 	private JLabel getLblMisfortune() {
 		if (lblMisfortune == null) {
 			lblMisfortune = new JLabel("", SwingConstants.CENTER);
-			lblMisfortune.setBorder(new LineBorder(new Color(0, 0, 0)));
-			lblMisfortune.setBounds(543, 307, 367, 56);
+			lblMisfortune.setFont(new Font("OptimusPrinceps", Font.BOLD, 13));
+			lblMisfortune.setForeground(Color.WHITE);
+			lblMisfortune.setBorder(new LineBorder(new Color(255, 255, 255)));
+			lblMisfortune.setBounds(562, 307, 367, 56);
 		}
 		return lblMisfortune;
 	}
@@ -207,8 +234,10 @@ public class FrontEnd extends JFrame {
 	private JLabel getLblRare2() {
 		if (lblRare2 == null) {
 			lblRare2 = new JLabel("", SwingConstants.CENTER);
-			lblRare2.setBorder(new LineBorder(new Color(0, 0, 0)));
-			lblRare2.setBounds(543, 214, 367, 56);
+			lblRare2.setFont(new Font("OptimusPrinceps", Font.BOLD, 13));
+			lblRare2.setForeground(Color.WHITE);
+			lblRare2.setBorder(new LineBorder(new Color(255, 255, 255)));
+			lblRare2.setBounds(562, 214, 367, 56);
 		}
 		return lblRare2;
 	}
@@ -216,8 +245,10 @@ public class FrontEnd extends JFrame {
 	private JButton getBtnReset() {
 		if (btnReset == null) {
 			btnReset = new JButton("Reset");
+			btnReset.setIcon(new ImageIcon(FrontEnd.class.getResource("/resources/Reset3.png")));
+			btnReset.setFont(new Font("OptimusPrinceps", Font.BOLD, 17));
 			btnReset.addActionListener(new BtnResetActionListener());
-			btnReset.setBounds(372, 11, 167, 69);
+			btnReset.setBounds(400, 11, 167, 69);
 		}
 		return btnReset;
 	}
@@ -360,5 +391,13 @@ public class FrontEnd extends JFrame {
 				}
 			}
 		}
+	}
+	private JLabel getLblbackground() {
+		if (lblbackground == null) {
+			lblbackground = new JLabel("");
+			lblbackground.setIcon(Background1);
+			lblbackground.setBounds(0, 0, 966, 461);
+		}
+		return lblbackground;
 	}
 }
