@@ -1,0 +1,162 @@
+Bound Hand Axe
+Butcher's Knife
+Bow of Want
+Short Bow
+Bell Keeper Bow
+Sea Bow
+Long Bow
+Hunter's Blackbow
+Composite Bow
+Dragonrider bow
+Disc Chime 
+Archdrake Chime
+Caitha's Chime
+Chime of Want
+Cleric's Sacred Chime
+Dragon Chime
+Idol's Chime
+Priest's Chime
+Protective Chime
+Witchtree Bellvine
+Work Hook
+Malformed Claws
+Manikin Claws
+Claws
+Sanctum Repeating Crossbow
+Avelyn
+Sacntum Crossbow
+Light Crossbow
+Shield Crossbow
+Heavy Crossbow
+Arced Sword
+Curved Dragon Greatsword
+Curved Nil Greatsword
+Monastery Scimitar
+Spider Fang
+Shotel
+Scimitar
+Falchion
+Manikin Sabre
+Melu Scimitar
+Red Rust Scimitar
+Eleum Loyce
+Mytha's Bentblade
+Manikin Knife
+Shadow Dagger
+Broken Thief Sword
+Bandit's Knife
+Black Flamestone Dagger
+Thief Dagger
+Royal Dirk
+Blue Dagger
+Umbral Dagger
+Retainer's Short Sword
+Caestus
+Bone Fist
+Dark Pyromancy Flame
+Pyromancy Flame
+Crescent Axe
+Lion Greataxe
+Black Knight Greataxe
+Bandit Greataxe
+Drakekeeper's Greataxe
+Gyrm Greataxe
+Greataxe
+Black Dragon Greataxe
+Giant Stone Axe
+Alonne Greatbow
+Dragonslayer Greatbow
+Possessed Armor Greatbow
+Twin-headed Greatbow
+Archdrake Mace
+Iron King Hammer
+Large Club
+Sacred Chime Hammer
+Sanctum Mace
+Drakekeeper's Great Hammer
+Drakekeeper's Warpick
+Malformed Shell
+Gyrm Great Hammer
+Demon's Great Hammer
+Old Knight Hammer
+Malformed Skull
+Giant Warrior Club
+Smelter Hammer
+Pickaxe
+Thorned Greatsword
+Drakeblood Greatsword
+Key to the Embedded
+Mirrah Greatsword
+Old Mirrah Greatsword
+Royal Greatsword
+Old Knight Greatsword
+Mastodon Greatsword
+Black Dragon Greatsword
+Dragonrider's Halberd
+Helix Halberd
+Roaring Halberd
+Black Knight Halberd
+Lucerne
+Syan's Halberd
+Scythe
+Wrathful Axe
+Blue Knight's Halberd
+Old Knight Halberd
+Old Knight Pike
+Mastodon Halberd
+Handmaid's Ladle
+Mace of the Insolent
+Club
+Morning Star
+Mace
+Aldia Hammer
+Craftsman Hammer
+Reinforced Club
+Barbed Club
+Blacksmith's Hammer
+Homunculus Mace
+Black Dragon Warpick
+Chariot Lance
+Rampart Golem Lance
+Heide Greatlance
+Scythe of Nahr Alma
+Silverblack Sickle
+Crescent Sickle
+Scythe of Want
+Great Scythe
+Full Moon Sickle
+Bone Scythe
+Scythe of the Forlorn
+Silverblack Spear
+Spitfire Spear
+Dragonslayer Spear
+Stone Soldier Spear
+Pike
+Partizan
+Channeler's Trident
+Winged Spear
+Gargoyle Bident
+Pilgrim's Spontoon
+Bat Staff
+Bone Staff
+Lizard Staff
+Olenford's Staff
+Transgressor's Staff
+Azal's Staff
+Retainer Staff
+Puzzling Stone Sword
+Broken Straight Sword
+Shortsword
+Yellow Quartz Longsword
+Foot Soldier Sword
+Black Dragon Sword
+Possessed Armor Sword
+Ashen Warrior Sword
+Mail Breaker
+Spider's Silk
+Black Scorpion Stinger
+Spotted Whip
+Notched Whip
+Whip
+Bloodied Whip
+Old Whip

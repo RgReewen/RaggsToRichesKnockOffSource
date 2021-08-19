@@ -1,0 +1,934 @@
+Abyss Seal
+Acid Surge
+Affinity
+Agape Ring
+Agdayne's Black Robe
+Agdayne's Cuffs
+Agdayne's Kilt
+Aged Feather
+Alluring Skull
+Alonne Captain Armor
+Alonne Captain Helm
+Alonne Knight Armor
+Alonne Knight Gauntlets
+Alonne Knight Helm
+Alonne Knight Leggings
+Alonne's Armor
+Alonne's Gauntlets
+Alonne's Helm
+Alonne's Leggings
+Alva Armor
+Alva Gauntlets
+Alva Helm
+Alva Leggings
+Amber Herb
+Ancient Dragon Seal
+Ancient Dragon Soul
+Archdrake Boots
+Archdrake Gloves
+Archdrake Helm
+Archdrake Robes
+Archdrake Shield
+Armor Smithbox
+Aromatic Ooze
+Ash Knuckle Ring
+Ashen Mist Heart
+Astrologist's Bottoms
+Astrologist's Gauntlets
+Astrologist's Robe
+Awestone
+Bandit Armor
+Bandit Boots
+Bandit Gauntlets
+Baneful Bird Ring
+Barrel
+Belfry Gargoyle Soul
+Bell Keeper Bellyband
+Bell Keeper Cuffs
+Bell Keeper Helmet
+Bell Keeper Shield
+Bell Keeper Trousers
+Bell Keeper's Seal
+Bell of the Idol
+Benhart's Armor
+Benhart's Boots
+Benhart's Gauntlets
+Benhart's Knight Helm
+Benhart's Parma
+Binoculars
+Black Dragon Armor
+Black Dragon Helm
+Black Dragon Leggings
+Black Dragon Shield
+Black Firebomb
+Black Flamestone Parma
+Black Hollow Mage Hood
+Black Hollow Mage Robe
+Black Leather Armor
+Black Leather Boots
+Black Leather Gloves
+Black Separation Crystal
+Black Witch Domino Mask
+Black Witch Gloves
+Black Witch Hat
+Black Witch Robe
+Black Witch Trousers
+Blackweed Balm
+Bleed Stone
+Bleeding Serum
+Blinding Bolt
+Bloodbite Ring
+Bloodbite Ring+1
+Blood-Stained Skirt
+Blossom Kite Shield
+Blue Seal
+Blue Tearstone Ring
+Blue Wooden Shield
+Boltstone
+Bone Crown
+Bone King Cuffs
+Bone King Robe
+Bone King Skirt
+Bone of Order
+Bone Shield
+Bonfire Ascetic
+Bound Wooden Shield
+Bountiful Sunlight
+Bracing Knuckle Ring
+Bracing Knuckle Ring+1
+Bracing Knuckle Ring+2
+Brigand Armor
+Brigand Gauntlets
+Brigand Hood
+Brigand Trousers
+Brightbug
+Buckler
+Cale's Helm
+Cale's Leather Armor
+Cale's Shoes
+Caressing Prayer
+Cast Light
+Catarina Armor
+Catarina Gauntlets
+Catarina Helm
+Catarina Leggings
+Chameleon
+Champion's Tablet
+Chaos Boots
+Chaos Gloves
+Chaos Hood
+Chaos Robe
+Chaos Robes
+Chaos Shield
+Chaos Storm
+Charcoal Pine Resin
+Charred Loyce Armor
+Charred Loyce Gauntlets
+Charred Loyce Helm
+Charred Loyce Leggings
+Charred Loyce Shield
+Chime of Screams
+Chloranthy Ring
+Chloranthy Ring+1
+Chloranthy Ring+2
+Clear Bluestone Ring
+Clear Bluestone Ring+1
+Clear Bluestone Ring+2
+Cleric's Parma
+Cleric's Small Shield
+Climax
+Combustion
+Common Fruit
+Corrosive Urn
+Covetous Demon Soul
+Covetous Gold Serpent Ring
+Covetous Gold Serpent Ring+1
+Covetous Gold Serpent Ring+2
+Covetous Silver Serpent Ring
+Covetous Silver Serpent Ring+1
+Covetous Silver Serpent Ring+2
+Cracked Blue Eye Orb
+Cracked Red Eye Orb
+Craftsman's Hammer
+Creighton's Chain Gloves
+Creighton's Chain Leggings
+Creighton's Chainmail
+Creighton's Steel Mask
+Crest of Blood
+Crest of the Rat
+Crimson Parma
+Crimson Water
+Crown of the Ivory King
+Crown of the Old Iron King
+Crown of the Sunken King
+Crushed Eye Orb
+Crystal Magic Weapon
+Crystal Soul Spear
+Cursebite Ring
+Cursed Bone Shield
+Dance of Fire
+Dark Armor
+Dark Arrow
+Dark Bolt
+Dark Clutch Ring
+Dark Dance
+Dark Fog
+Dark Gauntlets
+Dark Greatarrow
+Dark Greatsword
+Dark Hail
+Dark Leggings
+Dark Mask
+Dark Orb
+Dark Pine Resin
+Dark Quartz Ring
+Dark Quartz Ring+1
+Dark Quartz Ring+2
+Dark Quartz Ring+3
+Dark Troches
+Dark Weapon
+Darklurker Soul
+Darknight Stone
+Darksign
+Darkstorm
+Dead Again
+Defender Helm
+Defender Mail
+Defender's Gauntlet
+Defender's Leggings
+Defender's Shield
+Delicate String
+Demon of Song Soul
+Denial
+Desert Sorceress Gloves
+Desert Sorceress Hood
+Desert Sorceress Skirt
+Desert Sorceress Top
+Despatcher's Hood
+Despatcher's Robes
+Destructive Greatarrow
+Dexterity Ring
+Dingy Cuffs
+Dingy Hood
+Dingy Robe
+Disc Bell
+Disc Chime
+Dispelling Ring
+Dispelling Ring+1
+Divine Blessing
+Dragon Acolyte Boots
+Dragon Acolyte Gloves
+Dragon Acolyte Mask
+Dragon Acolyte Robe
+Dragon Charm
+Dragon Eye
+Dragon Sage Hood
+Dragon Scale
+Dragon Stone
+Dragon Talon
+Dragon Torso Stone
+Dragonknight Boots
+Dragonknight Gloves
+Dragonknight Helm
+Dragonknight Robes
+Dragonknight's Bell
+Dragonknight's Shield
+Dragonrider Armor
+Dragonrider Gauntlets
+Dragonrider Greatshield
+Dragonrider Helm
+Dragonrider Leggings
+Dragonrider Soul
+Drakeblood Armor
+Drakeblood Gauntlets
+Drakeblood Helm
+Drakeblood Leggings
+Drakekeeper Armor
+Drakekeeper Boots
+Drakekeeper Gauntlets
+Drakekeeper Helm
+Drakekeeper's Greatshield
+Drakekeeper's Shield
+Drangleic Gauntlets
+Drangleic Helm
+Drangleic Leggings
+Drangleic Mail
+Drangleic Shield
+Dried Fingers
+Dried Root
+Dull Ember
+Dung Pie
+Durgo's Hat
+Elite Knight Armor
+Elite Knight Gloves
+Elite Knight Helm
+Elite Knight Leggings
+Elizabeth Mushroom
+Emit Force
+Engraved Gauntlets
+Estus Flask
+Estus Flask Shard
+Executioner Armor
+Executioner Gauntlets
+Executioner Helm
+Executioner Leggings
+Executioner's Chariot Soul
+Eye of the Priestess
+Fading Soul
+Faintstone
+Fake Dead Talisman
+Falconer Armor
+Falconer Boots
+Falconer Gloves
+Falconer Helm
+Fall Control
+Faraam Armor
+Faraam Boots
+Faraam Gauntlets
+Faraam Helm
+Fire Arrow
+Fire Bolt
+Fire Clutch Ring
+Fire Greatarrow
+Fire Orb
+Fire Seed
+Fire Snake
+Fire Tempest
+Fire Whip
+Fireball
+Firebomb
+Firedrake Stone
+Firestorm
+First Dragon Ring
+Flame Butterfly
+Flame Quartz Ring
+Flame Quartz Ring+1
+Flame Quartz Ring+2
+Flame Quartz Ring+3
+Flame Swathe
+Flame Weapon
+Flash Sweat
+Flexile Sentry Soul
+Flower Skirt
+Flying Feline Boots
+Flynn's Ring
+Focus Souls
+Foot Soldier Shield
+Forbidden Sun
+Force
+Fragrant Branch of Yore
+Frozen Flower
+Fume Sorcerer Boots
+Fume Sorcerer Gloves
+Fume Sorcerer Mask
+Fume Sorcerer Robes
+Gauntlets of Aurous
+Giant Lord Soul
+Giant's Kinship
+Gold Pine Resin
+Gold Talisman
+Golden Falcon Shield
+Goldenfruit Balm
+Gower's Ring of Protection
+Grand Spirit Tree Shield
+Grave Warden Bottoms
+Grave Warden Cuffs
+Grave Warden Mask
+Grave Warden Top
+Great Chaos Fireball
+Great Combustion
+Great Fireball
+Great Heal
+Great Heal Excerpt
+Great Heavy Soul Arrow
+Great Lightning Spear
+Great Magic Barrier
+Great Magic Weapon
+Great Resonant Soul
+Great Soul Arrow
+Greatshield of Glory
+Green Blossom
+Guardian Dragon Soul
+Guardian's Seal
+Guidance
+Gyrm Armor
+Gyrm Boots
+Gyrm Gloves
+Gyrm Greatshield
+Gyrm Helm
+Gyrm Warrior Armor
+Gyrm Warrior Boots
+Gyrm Warrior Gloves
+Gyrm Warrior Greathelm
+Gyrm Warrior Helm
+Hard Leather Armor
+Hard Leather Boots
+Hard Leather Gauntlets
+Havel's Armor
+Havel's Gauntlets
+Havel's Greatshield
+Havel's Helm
+Havel's Leggings
+Hawk Ring
+Heal
+Heavenly Thunder
+Heavy Bolt
+Heavy Boots
+Heavy Homing Soul Arrow
+Heavy Soul Arrow
+Heide Knight Chainmail
+Heide Knight Gauntlets
+Heide Knight Greathelm
+Heide Knight Iron Mask
+Heide Knight Leggings
+Hello Carving
+Helm of Aurous
+Hexer's Boots
+Hexer's Gloves
+Hexer's Hood
+Hexer's Robes
+Hexing Urn
+Hidden Weapon
+Hollow Infantry Armor
+Hollow Infantry Boots
+Hollow Infantry Gloves
+Hollow Infantry Helm
+Hollow Mage Hood
+Hollow Mage Robes
+Hollow Skin
+Hollow Soldier Armor
+Hollow Soldier Gauntlets
+Hollow Soldier Helm
+Hollow Soldier Leggings
+Hollow Soldier Shield
+Holy Water Urn
+Homeward
+Homeward Bone
+Homing Crystal Soulmass
+Homing Soul Arrow
+Homing Soulmass
+Homunculus Wooden Shield
+Human Effigy
+Hunter's Hat
+Hush
+Illusory Ring of a Conqueror
+Illusory Ring of the Exalted
+Illusory Ring of the Guilty
+Illusory Ring of the Vengeful
+Illusory Talisman
+I'm Sorry Carving
+Immolation
+Imperial Shield
+Imperious Armor
+Imperious Gloves
+Imperious Helm
+Imperious Leggings
+Imported Hood
+Imported Manchettes
+Imported Trousers
+Imported Tunic
+Infantry Armor
+Infantry Boots
+Infantry Gloves
+Infantry Helm
+Inquisitor's Blade
+Insolent Armor
+Insolent Boots
+Insolent Gloves
+Insolent Helm
+Iron Arrow
+Iron Flesh
+Iron Greatarrow
+Iron Parma
+Ironclad Armor
+Ironclad Gauntlets
+Ironclad Helm
+Ironclad Leggings
+Ivory King Armor
+Ivory King Gauntlets
+Ivory King Helm
+Ivory King Leggings
+Ivory Warrior Ring
+Jester's Cap
+Jester's Gloves
+Jester's Robes
+Jester's Tights
+King's Armor
+King's Crown
+King's Gauntlets
+King's Leggings
+King's Mirror
+King's Ring
+King's Shield
+Knight Armor
+Knight Gauntlets
+Knight Helm
+Knight Leggings
+Knight's Greatsword
+Lacerating Arrow
+Lacerating Knife
+Ladder Miniature
+Large Leather Shield
+Large Soul of a Brave Warrior
+Large Soul of a Lost Undead
+Large Soul of a Nameless Soldier
+Large Soul of a Proud Knight
+Large Titanite Shard
+Leather Armor
+Leather Boots
+Leather Gloves
+Leggings of Aurous
+Leydia Black Hood
+Leydia Black Robe
+Leydia Gauntlets
+Leydia White Hood
+Leydia White Robe
+Life Ring
+Life Ring+1
+Life Ring+2
+Life Ring+3
+Lifedrain Patch
+Lifegem
+Lightning Arrow
+Lightning Bolt
+Lightning Clutch Ring
+Lightning Greatarrow
+Lightning Spear
+Lightning Urn
+Lingering Dragoncrest Ring
+Lingering Dragoncrest Ring+1
+Lingering Dragoncrest Ring+2
+Lingering Flame
+Lion Clan Shield
+Lion Mage Cuffs
+Lion Mage Robe
+Lion Mage Skirt
+Lion Warrior Cape
+Lion Warrior Cuffs
+Lion Warrior Helm
+Lion Warrior Skirt
+Llewellyn Armor
+Llewellyn Gloves
+Llewellyn Shield
+Llewellyn Shoes
+Lloyd's Talisman
+Looking Glass Armor
+Looking Glass Gauntlets
+Looking Glass Knight Soul
+Looking Glass Leggings
+Looking Glass Mask
+Loyce Armor
+Loyce Gauntlets
+Loyce Helm
+Loyce Leggings
+Loyce Shield
+Loyce Soul
+Lucatiel's Gloves
+Lucatiel's Mask
+Lucatiel's Trousers
+Lucatiel's Vest
+Mad Warrior Armor
+Mad Warrior Gauntlets
+Mad Warrior Leggings
+Mad Warrior Mask
+Magic Arrow
+Magic Barrier
+Magic Bolt
+Magic Greatarrow
+Magic Shield
+Magic Stone
+Magic Weapon
+Manchettes of Judgment
+Manikin Boots
+Manikin Gloves
+Manikin Mask
+Manikin Shield
+Manikin Top
+Mask of Judgment
+Mastodon Armor
+Mastodon Gauntlets
+Mastodon Greatshield
+Mastodon Helm
+Mastodon Leggings
+Med Heal
+Minotaur Helm
+Mirrah Hat
+Mirrah Shield
+Monastery Charm
+Monastery Headcloth
+Monastery Long Gloves
+Monastery Longshirt
+Monastery Skirt
+Moon Butterfly Cuffs
+Moon Butterfly Hat
+Moon Butterfly Shield
+Moon Butterfly Skirt
+Moon Butterfly Wings
+Moon Hat
+Mytha, the Baneful Queen Soul
+Mytha's Bent Blade
+Nahr Alma Hood
+Nahr Alma Robes
+Name-engraved Ring
+Northern Ritual Band
+Northern Ritual Band+1
+Northern Ritual Band+2
+Northwarder Hood
+Northwarder Manchettes
+Northwarder Robe
+Northwarder Trousers
+Numbness
+Old Bell Helm
+Old Dead One Soul
+Old Dragonslayer Soul
+Old Growth Balm
+Old Iron King Soul
+Old Ironclad Armor
+Old Ironclad Gauntlets
+Old Ironclad Helm
+Old Ironclad Leggings
+Old King Soul
+Old Knight Armor
+Old Knight Gauntlets
+Old Knight Greatshield
+Old Knight Helm
+Old Knight Leggings
+Old Knight's Shield
+Old Leo Ring
+Old Mundane Stone
+Old Paledrake Soul
+Old Radiant Lifegem
+Old Sun Ring
+Old Witch Soul
+Orma's Greatshield
+Outcry
+Palestone
+Pate's Armor
+Pate's Gloves
+Pate's Helm
+Pate's Shield
+Pate's Trousers
+Peasant Attire
+Peasant Hat
+Peasant Long Gloves
+Peasant Trousers
+Penal Handcuffs
+Penal Mask
+Penal Skirt
+Penal Straightjacket
+Perseverance
+Petrified Dragon Bone
+Petrified Egg
+Petrified Something
+Pharros' Lockstone
+Pharros Mask
+Phoenix Parma
+Poison Arrow
+Poison Mist
+Poison Moss
+Poison Stone
+Poison Throwing Knife
+Poisonbite Ring
+Poisonbite Ring+1
+Porcine Shield
+Priestess Gloves
+Priestess Headpiece
+Priestess Robe
+Priestess Skirt
+Prism Stone
+Prisoner's Gloves
+Prisoner's Hood
+Prisoner's Tatters
+Prisoner's Waistcloth
+Profound Still
+Promised Walk of Peace
+Pungent Ooze
+Pursuer's Greatshield
+Pursuer's Greatsword
+Radiant Lifegem
+Raime's Armor
+Raime's Gauntlets
+Raime's Helm
+Raime's Leggings
+Rampart Golem Armor
+Rampart Golem Gauntlets
+Rampart Golem Helm
+Rampart Golem Leggings
+Rampart Golem Shield
+Rat Tail
+Raw Stone
+Rebel's Greatshield
+Recollection
+Red Leech Troches
+Red Lion Warrior Cape
+Red Rust Shield
+Red Sign Soapstone
+Red Tearstone Ring
+Redeye Ring
+Reeve's Greatshield
+Repair
+Repair Powder
+Repel
+Replenishment
+Resonant Flesh
+Resonant Soul
+Resonant Weapon
+Resplendent Life
+Retainer Robe
+Rhoy's Stone
+Rhoy's Stone of Knowledge
+Ring of Binding
+Ring of Blades
+Ring of Blades+1
+Ring of Blades+2
+Ring of Giants
+Ring of Giants+1
+Ring of Giants+2
+Ring of Knowledge
+Ring of Life Protection
+Ring of Prayer
+Ring of Resistance
+Ring of Resistance+1
+Ring of Restoration
+Ring of Soul Protection
+Ring of Steel Protection
+Ring of Steel Protection+1
+Ring of Steel Protection+2
+Ring of the Dead
+Ring of the Embedded
+Ring of the Evil Eye
+Ring of the Evil Eye+1
+Ring of the Evil Eye+2
+Ring of the Living
+Ring of Thorns
+Ring of Thorns+1
+Ring of Thorns+2
+Ring of Whispers
+Robe of Judgment
+Rogue Armor
+Rogue Gauntlets
+Rogue Hood
+Rogue Leggings
+Rosabeth's Dress
+Rotten Pine Resin
+Rotunda Lockstone
+Rouge Water
+Royal Kite Shield
+Royal Rat Authority Soul
+Royal Rat Vanguard Soul
+Royal Soldier Armor
+Royal Soldier Gauntlets
+Royal Soldier Helm
+Royal Soldier Leggings
+Royal Soldier's Ring
+Royal Soldier's Ring+1
+Royal Soldier's Ring+2
+Royal Swordsman Armor
+Royal Swordsman Gloves
+Royal Swordsman Helm
+Royal Swordsman Leggings
+Rubbish
+Ruin Armor
+Ruin Gauntlets
+Ruin Helm
+Ruin Leggings
+Ruin Sentinel Soul
+Rusted Coin
+Rusted Mastodon Armor
+Rusted Mastodon Gauntlets
+Rusted Mastodon Helm
+Rusted Mastodon Leggings
+Sacred Oath
+Saint's Dress
+Saint's Hood
+Saint's Long Gloves
+Saint's Trousers
+Sanctum Crossbow
+Sanctum Knight Armor
+Sanctum Knight Gauntlets
+Sanctum Knight Helm
+Sanctum Knight Leggings
+Sanctum Priestess Tiara
+Sanctum Shield
+Sanctum Soldier Gauntlet
+Scorching Iron Scepter
+Scorpioness Najka Soul
+Scraps of Life
+Second Dragon Ring
+Seed of a Tree of Giants
+Shadow Claws
+Shadow Gauntlets
+Shadow Leggings
+Shadow Mask
+Shadow Top
+Shield of the Insolent
+Shockwave
+Silver Eagle Kite Shield
+Silver Talisman
+Silverblack Shield
+Silvercat Ring
+Simpleton's Ring
+Simpleton's Spice
+Singer's Dress
+Skeleton Lord's Soul
+Skeptic's Spice
+Slumbering Dragon Shield
+Slumbering Dragoncrest Ring
+Small Blue Burr
+Small Leather Shield
+Small Orange Burr
+Small Smooth & Silky Stone
+Small White Sign Soapstone
+Small Yellow Burr
+Smelter Demon Armor
+Smelter Demon Gauntlets
+Smelter Demon Helm
+Smelter Demon Leggings
+Smelter Demon Soul
+Smelter Wedge
+Smooth & Silky Stone
+Soothing Sunlight
+Sorcery Clutch Ring
+Soul Appease
+Soul Arrow
+Soul Bolt
+Soul Flash
+Soul Geyser
+Soul Greatsword
+Soul Shower
+Soul Spear
+Soul Spear Barrage
+Soul Vessel
+Soul Vortex
+Southern Ritual Band
+Southern Ritual Band+1
+Southern Ritual Band+2
+Spell Quartz Ring
+Spell Quartz Ring+1
+Spell Quartz Ring+2
+Spell Quartz Ring+3
+Spiked Bandit Helm
+Spirit Tree Shield
+Splintering Lightning Spear
+Standard Helm
+Steel Armor
+Steel Gauntlets
+Steel Helm
+Steel Leggings
+Stone Parma
+Stone Ring
+Strength Ring
+Strong Magic Shield
+Sublime Bone Dust
+Sun Seal
+Sunlight Blade
+Sunlight Medal
+Sunlight Parma
+Sunlight Spear
+Syan's Armor
+Syan's Gauntlets
+Syan's Helm
+Syan's Leggings
+Symbol of Avarice
+Target Shield
+Targray's Armor
+Targray's Helm
+Targray's Leggings
+Targray's Manifers
+Tattered Cloth Hood
+Tattered Cloth Manchettes
+Tattered Cloth Robe
+Thank You Carving
+Thief Mask
+Third Dragon Ring
+Throne Defender Armor
+Throne Defender Gauntlets
+Throne Defender Helm
+Throne Defender Leggings
+Throne Defender Soul
+Throne Watcher Armor
+Throne Watcher Gauntlets
+Throne Watcher Helm
+Throne Watcher Leggings
+Throne Watcher Soul
+Throwing Knife
+Thunder Quartz Ring
+Thunder Quartz Ring+1
+Thunder Quartz Ring+2
+Thunder Quartz Ring+3
+Tights of Judgment
+Titanite Chunk
+Titanite Shard
+Titanite Slab
+Token of Fidelity
+Token of Spite
+Torch
+Tower Shield
+Toxic Mist
+Transgressor's Leather Shield
+Traveling Merchant Boots
+Traveling Merchant Coat
+Traveling Merchant Gloves
+Traveling Merchant Hat
+Triclops Snake Troches
+Tseldora Cap
+Tseldora Manchettes
+Tseldora Robe
+Tseldora Trousers
+Twilight Herb
+Twin Dragon Greatshield
+Twinkling Titanite
+Twisted Barricade
+Unleash Magic
+Unveil
+Vanquisher's Seal
+Varangian Armor
+Varangian Cuffs
+Varangian Helm
+Varangian Leggings
+Varangian Shield
+Velstadt's Armor
+Velstadt's Gauntlets
+Velstadt's Helm
+Velstadt's Leggings
+Vengarl's Armor
+Vengarl's Boots
+Vengarl's Gloves
+Vengarl's Helm
+Very Good! Carving
+Vessel Shield
+Vine Balm
+Wanderer Boots
+Wanderer Coat
+Wanderer Hood
+Wanderer Manchettes
+Warlock Mask
+Warmth
+Watchdragon Parma
+Watcher's Shield
+Weapon Smithbox
+Whisper of Despair
+White Hollow Mage Hood
+White Hollow Mage Robe
+White Priest Gloves
+White Priest Headpiece
+White Priest Robe
+White Priest Skirt
+White Ring
+White Sign Soapstone
+Wicked Eye Greatshield
+Wilted Dusk Herb
+Witching Urn
+Wood Arrow
+Wood Bolt
+Wooden Greatarrow
+Wooden Shield
+Wrath of the Gods
+Xanthous Crown
+Xanthous Gloves
+Xanthous Overcoat
+Xanthous Waistcloth
+Yearn
+Yellow Quartz Shield
+Yellow Sea Troches
+Yorgh's Ring
